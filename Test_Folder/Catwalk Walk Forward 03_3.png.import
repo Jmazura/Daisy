@@ -2,20 +2,20 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://15igr2h1b85n"
-path.s3tc="res://.godot/imported/Catwalk Walk Forward 03_0.png-0eb3f476004f59bcbdf15ffae02addf1.s3tc.ctex"
+uid="uid://ccjwsktytxt13"
+path.s3tc="res://.godot/imported/Catwalk Walk Forward 03_3.png-600cc60aa2082acb9ddd99dff487ce16.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
 }
 generator_parameters={
-"md5": "d9c94c76dd797c213321f89289510df2"
+"md5": "1b69ef97e1e5039d3445484f7fdf8a86"
 }
 
 [deps]
 
-source_file="res://Catwalk Walk Forward 03_0.png"
-dest_files=["res://.godot/imported/Catwalk Walk Forward 03_0.png-0eb3f476004f59bcbdf15ffae02addf1.s3tc.ctex"]
+source_file="res://Test_Folder/Catwalk Walk Forward 03_3.png"
+dest_files=["res://.godot/imported/Catwalk Walk Forward 03_3.png-600cc60aa2082acb9ddd99dff487ce16.s3tc.ctex"]
 
 [params]
 
@@ -23,12 +23,12 @@ compress/mode=2
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1
-compress/normal_map=0
+compress/normal_map=1
 compress/channel_pack=0
 mipmaps/generate=true
 mipmaps/limit=-1
-roughness/mode=0
-roughness/src_normal=""
+roughness/mode=1
+roughness/src_normal="res://Catwalk Walk Forward 03_3.png"
 process/fix_alpha_border=true
 process/premult_alpha=false
 process/normal_map_invert_y=false

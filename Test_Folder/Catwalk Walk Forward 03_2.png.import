@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://bbjw6cbh5xku8"
-path="res://.godot/imported/Catwalk Walk Forward 03_2.png-fc0990a9f89671d4f5d77712732ef5d8.ctex"
+path="res://.godot/imported/Catwalk Walk Forward 03_2.png-53adffff70ff05d429384c4d8a43d29f.ctex"
 metadata={
 "vram_texture": false
 }
@@ -13,8 +13,8 @@ generator_parameters={
 
 [deps]
 
-source_file="res://Catwalk Walk Forward 03_2.png"
-dest_files=["res://.godot/imported/Catwalk Walk Forward 03_2.png-fc0990a9f89671d4f5d77712732ef5d8.ctex"]
+source_file="res://Test_Folder/Catwalk Walk Forward 03_2.png"
+dest_files=["res://.godot/imported/Catwalk Walk Forward 03_2.png-53adffff70ff05d429384c4d8a43d29f.ctex"]
 
 [params]
 

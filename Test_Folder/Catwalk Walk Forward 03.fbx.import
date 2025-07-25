@@ -4,12 +4,12 @@ importer="scene"
 importer_version=1
 type="PackedScene"
 uid="uid://cer2c15upi7l4"
-path="res://.godot/imported/Catwalk Walk Forward 03.fbx-b75512cb3ade6626f060088adf544166.scn"
+path="res://.godot/imported/Catwalk Walk Forward 03.fbx-8da7aa746b5d86fe054e6854877489bf.scn"
 
 [deps]
 
-source_file="res://Catwalk Walk Forward 03.fbx"
-dest_files=["res://.godot/imported/Catwalk Walk Forward 03.fbx-b75512cb3ade6626f060088adf544166.scn"]
+source_file="res://Test_Folder/Catwalk Walk Forward 03.fbx"
+dest_files=["res://.godot/imported/Catwalk Walk Forward 03.fbx-8da7aa746b5d86fe054e6854877489bf.scn"]
 
 [params]
 
